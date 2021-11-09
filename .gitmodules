@@ -1,0 +1,3 @@
+[submodule "initial-xv6/src"]
+	path = initial-xv6/src
+	url = https://github.com/QifanWang/xv6-public.git
